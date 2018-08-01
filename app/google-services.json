@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "713825498795",
+    "firebase_url": "https://otp-authentication-1e1c6.firebaseio.com",
+    "project_id": "otp-authentication-1e1c6",
+    "storage_bucket": "otp-authentication-1e1c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713825498795:android:39fb3e601a37675f",
+        "android_client_info": {
+          "package_name": "com.kawal.otpauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713825498795-lh5tdtuupqdttcmgjeqf1n4p28pho13p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kawal.otpauthentication",
+            "certificate_hash": "77047a1a8dbcdd094718c9e2aec227441771db78"
+          }
+        },
+        {
+          "client_id": "713825498795-nrcm8t4oos47rcsj2l521ppuh8ajam4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKei94MU5bMC31-b5x1x-vOwRHYBz2BPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713825498795-nrcm8t4oos47rcsj2l521ppuh8ajam4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
